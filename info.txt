@@ -1,0 +1,21 @@
+Leave-Management-System
+│   app.js
+│   package.json
+│   package-lock.json
+├── controllers
+│   ├── authController.js
+│   └── leaveController.js
+├── models
+│   ├── user.js
+│   ├── leave.js
+├── routes
+│   ├── authRoutes.js
+│   └── leaveRoutes.js
+├── views
+│   ├── index.ejs
+│   ├── dashboard.ejs
+└── public
+    ├── css
+    │   └── styles.css
+    └── js
+        └── script.js
